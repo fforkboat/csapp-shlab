@@ -1,0 +1,10 @@
+*.txt
+.vscode/
+*.out
+*.o
+tsh
+tshref
+myint
+myspin
+mysplit
+mystop
